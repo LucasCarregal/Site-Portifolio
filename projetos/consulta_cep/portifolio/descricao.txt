@@ -1,0 +1,1 @@
+Esse app ultiliza da API ViaCep para consultar o endereço refente ao CEP informado pelo usuario.

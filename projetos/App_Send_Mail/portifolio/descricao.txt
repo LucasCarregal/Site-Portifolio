@@ -1,0 +1,1 @@
+Cria uma pagina web que envia um um email com assunto e mensagem para o email desejado. Essa aplicação é comumente ultilzada em diversos site em suas páginas de contatos, onde o cliente pode enviar realizar o contato diretamente pelo site.

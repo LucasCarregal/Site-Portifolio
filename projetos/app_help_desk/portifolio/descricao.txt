@@ -1,0 +1,1 @@
+Um app para a criação de chamados de assistencia tecnica, no qual possui 2 tipos de usuarios, os adms (aqueles que atenderam os chamados) e os clientes (aqueles que abrem os chamados). Os adms conseguem ter acesso a todos os chamados, já os clientes, tem acesso apenas aos chamados criados por eles mesmos.

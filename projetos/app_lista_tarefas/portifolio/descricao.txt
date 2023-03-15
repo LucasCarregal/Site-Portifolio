@@ -1,0 +1,1 @@
+Possibilita a criação de tarefas que são adicionadas a 2 listas diferentes, um lista completa com todas as tarefas e uma lista apenas com as tarefas pendentes. Ao se concluir uma tarefa, o usuario pode clicar no icone de concluida que seu status ira se alterar e essa não aparecerá mais na lista de tarefas pendentes.

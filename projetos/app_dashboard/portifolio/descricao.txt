@@ -1,0 +1,1 @@
+Fornece ao usuário um Dashboard com os principais dados de vendas de cada mes. Os dados são carregados dinamicamente a depender do mês escolhido pelo usuario.
